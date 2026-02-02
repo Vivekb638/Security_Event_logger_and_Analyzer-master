@@ -23,7 +23,7 @@ Ensure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/its-sujeet/os_project](https://github.com/Vivekb638/Security_Event_logger_and_Analyzer-maste).git
+git clone https://github.com/Vivekb638/Security_Event_logger_and_Analyzer-master.git
 ```
 
 ### 2. Navigate to the dashboard directory
